@@ -28,7 +28,7 @@ Here, I share security tools, technical studies, and projects from my learning a
 | Certification | Issuer | Credential |
 | :------------ | :----- | :--------- |
 | HTB Certified Penetration Testing Specialist | Hack The Box | Planned - 2027.1 |
-| Desec Certified Penetration Tester | DESEC Security | [Online Verification](https://academy.desecsecurity.com/certificacao/JEAO-JEVJF-WZEM) |
+| DESEC Certified Penetration Tester | DESEC Security | [Online Verification](https://academy.desecsecurity.com/certificacao/JEAO-JEVJF-WZEM) |
 
 ## Platforms
 
@@ -41,7 +41,7 @@ Here, I share security tools, technical studies, and projects from my learning a
 - **Security Operations & Incident Response:** Security log analysis, dashboard monitoring, incident investigation, compromised host identification, traffic blocking and technical reporting.
 - **Logging & Security Monitoring:** ELK Stack and Wazuh deployment for centralized logging.
 - **Network & Endpoint Security:** Cisco FTD/FMC administration, FortiGate deployment and administration and endpoint protection through Kaspersky Security Center.
-- **Application Delivery & Security:** F5 BIG-IP administration, including application publishing and SSL/TLS certificates management.
+- **Application Delivery & Security:** F5 BIG-IP administration, including application publishing and SSL/TLS certificate management.
 - **Application Security Assessments:** White-box assessments, manual code review, static analysis with Semgrep, and testing with Burp Suite and sqlmap. Authentication and password storage reviews, vulnerability reporting, and remediation retesting.
 - **Programming & Automation:** Python development; PHP and Java code review; foundational knowledge of C/C++, Bash, and Go.
 - **Systems & Networking:** Daily Linux use, basic switch and router administration, and static routing.
