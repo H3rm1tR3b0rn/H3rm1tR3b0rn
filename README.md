@@ -28,7 +28,7 @@ Here, I share security tools, technical studies, and projects from my learning a
 | Certification | Issuer | Credential |
 | :------------ | :----- | :--------- |
 | HTB Certified Penetration Testing Specialist | Hack The Box | Planned - 2027.1 |
-| Desec Certified Penetration Tester | DESEC Security | https://www.desecsecurity.com/valida-certificado - chave: JEAO-JEVJF-WZEM |
+| Desec Certified Penetration Tester | DESEC Security | [Online Verification](https://academy.desecsecurity.com/certificacao/JEAO-JEVJF-WZEM) |
 
 ## Platforms
 
