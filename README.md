@@ -32,6 +32,6 @@ Here, I share security tools, technical studies, and projects from my learning a
 
 ## Platforms
 
-Perfil no Hack The Box: https://profile.hackthebox.com/profile/019e0ae0-dc20-71a6-8569-bfed94ec0329
-
-[![Hack The Box](https://www.hackthebox.eu/badge/image/7861)](https://profile.hackthebox.com/profile/019e0ae0-dc20-71a6-8569-bfed94ec0329)
+| TryHackMe | Hack The Box |
+| :---: | :---: |
+| [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/H3rm1tR3b0rn.png)](https://tryhackme.com/p/H3rm1tR3b0rn) | [![Hack The Box](https://www.hackthebox.eu/badge/image/7861)](https://profile.hackthebox.com/profile/019e0ae0-dc20-71a6-8569-bfed94ec0329) |
